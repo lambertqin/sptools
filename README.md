@@ -10,6 +10,7 @@
 - Microsoft Error Lookup Tool: https://www.microsoft.com/en-us/download/details.aspx?id=100432
 - ProcDump: https://docs.microsoft.com/en-us/sysinternals/downloads/procdump
 - Process Monitor: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+- Service Trace Viewer Tool: https://docs.microsoft.com/en-us/dotnet/framework/wcf/service-trace-viewer-tool-svctraceviewer-exe
 - SharePoint Client Browser (SPCB): https://github.com/bramdejager/spcb
 - SharePoint Feature Admin Tool: https://github.com/achimismaili/featureadmin
 - SharePoint Search Query Tool: https://github.com/pnp/PnP-Tools/tree/master/Solutions/SharePoint.Search.QueryTool
